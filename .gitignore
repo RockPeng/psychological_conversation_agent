@@ -1,0 +1,16 @@
+.env
+
+venv
+models
+trainings
+meta-llama
+llama-models
+llama-recipes
+
+checkpoint*
+datasets
+huggingface/bert-finetuned-ner
+huggingface/distilbert-base-uncased-finetuned-imdb
+
+unsloth/lora_model
+unsloth/outputs
